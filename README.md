@@ -34,5 +34,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 
 ## Author
-- Frontend Mentor - [@@SergioHuG](https://www.frontendmentor.io/profile/SergioHuG)
+- Frontend Mentor - [@SergioHuG](https://www.frontendmentor.io/profile/SergioHuG)
 - Github - [@SergioHuG](https://github.com/SergioHuG)
