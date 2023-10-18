@@ -19,7 +19,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Front Mentor Solution]([https://your-solution-url.co](https://www.frontendmentor.io/solutions/results-summary-component-solution-QmR6LG7Lju)m)
 - Live Site URL: [Live Site](https://results-summary-component-kappa-two.vercel.app/)
 
 
